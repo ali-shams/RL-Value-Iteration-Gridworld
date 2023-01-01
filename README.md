@@ -1,4 +1,5 @@
 # Rl - Grid World Value Iteration
+
 ---
 This project involves creating a grid world environment and applying value iteration to find the optimum policy. Below is the value iteration pseudocode that was programmed and tested [[1]](#1).
 ![Alt text](images/Value_iteration_pseudocode.png?raw=true "Optional Title")
