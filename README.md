@@ -12,4 +12,3 @@ $$\gamma=1, \theta=1^{-10}, p(s^{'},r|s,a)=0.7, volcanopenalty=-10, goalreward=1
 ---
 ## References
 <a id="1">[1]</a>  R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction, 2nd ed., Cambridge, England, The MIT Press, 2018.
-
